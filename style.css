@@ -1,0 +1,15 @@
+body{
+background-image: url(https://thedailyguardian.com/wp-content/uploads/2023/08/take-5-7.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+#screen{
+color:blueviolet;
+font-size: x-large;
+display: flex;
+justify-content: center;
+margin-top: 90px;
+font-weight: 800;
+font-family: sans-serif;
+}
